@@ -1,0 +1,379 @@
+[
+    {
+        "course_id": "intro-js_html",
+        "course_name": "Introduction to JavaScript",
+        "course_url": "https://aca.am/en/intro-js.html",
+        "level": "Beginner",
+        "price": "76,000 AMD",
+        "teachers": [
+            {
+                "company": "AimHub",
+                "full_name": "Ruben Karapetyan"
+            },
+            {
+                "company": "SoftConstruct",
+                "full_name": "Angela Hayrapetyan"
+            },
+            {
+                "company": "EPAM Systems",
+                "full_name": "Karen Minasyan"
+            }
+        ]
+    },
+    {
+        "course_id": "intro-java_html",
+        "course_name": "Introduction to Java",
+        "course_url": "https://aca.am/en/intro-java.html",
+        "level": "Beginner",
+        "price": "86,000 AMD",
+        "teachers": [
+            {
+                "company": "VMware",
+                "full_name": "Artavazd Amirkhanyan"
+            },
+            {
+                "company": "Technical Lead at Armenian Code Academy",
+                "full_name": "Mher Azizbekyan"
+            }
+        ]
+    },
+    {
+        "course_id": "intro-ios_html",
+        "course_name": "Fundamentals of iOS Development",
+        "course_url": "https://aca.am/en/intro-ios.html",
+        "level": "Beginner",
+        "price": "86.000 AMD*",
+        "teachers": [
+            {
+                "company": "SoloLearn",
+                "full_name": "Asatur Harutyunyan"
+            },
+            {
+                "company": "PicsArt",
+                "full_name": "Artur Hakobyan"
+            }
+        ]
+    },
+    {
+        "course_id": "qe-fundamentals_html",
+        "course_name": "Fundamentals of Quality Assurance",
+        "course_url": "https://aca.am/en/qe-fundamentals.html",
+        "level": "Beginner",
+        "price": "50,000 AMD / month",
+        "teachers": [
+            {
+                "company": "Digitain Armenia",
+                "full_name": "Almast Amiryan"
+            }
+        ]
+    },
+    {
+        "course_id": "intro-ui-ux_html",
+        "course_name": "Fundamentals of UI/UX",
+        "course_url": "https://aca.am/en/intro-ui-ux.html",
+        "level": "Beginner",
+        "price": "86,000 AMD",
+        "teachers": [
+            {
+                "company": "Lead Product Designer at ACA",
+                "full_name": "Sergey Muradyan"
+            }
+        ]
+    },
+    {
+        "course_id": "introduction_html",
+        "course_name": "Introduction to C++",
+        "course_url": "https://aca.am/en/introduction.html",
+        "level": "",
+        "price": "",
+        "teachers": [
+            {
+                "company": "OMD",
+                "full_name": "\u0531\u0580\u0574\u0565\u0576 \u053e\u056b\u0580\u0578\u0582\u0576\u0575\u0561\u0576"
+            },
+            {
+                "company": "VMWare",
+                "full_name": "\u053c\u0587\u0578\u0576 \u0555\u0563\u0561\u0576\u0565\u057d\u0575\u0561\u0576"
+            }
+        ]
+    },
+    {
+        "course_id": "intro-python_html",
+        "course_name": "Introduction to Python",
+        "course_url": "https://aca.am/en/intro-python.html",
+        "level": "Beginner",
+        "price": "84.000 AMD",
+        "teachers": [
+            {
+                "company": "DISQO",
+                "full_name": "Mary Hakobyan"
+            },
+            {
+                "company": "Philip Morris International",
+                "full_name": "Shahane Arushanayan"
+            }
+        ]
+    },
+    {
+        "course_id": "intro-it-pm_html",
+        "course_name": "Introduction to IT PM",
+        "course_url": "https://aca.am/en/intro-it-pm.html",
+        "level": "Beginner++",
+        "price": "89.000 AMD",
+        "teachers": [
+            {
+                "company": "PMP\u00ae, MBA - Digitain",
+                "full_name": "Levon Mkrtchyan"
+            }
+        ]
+    },
+    {
+        "course_id": "graphic-design_php",
+        "course_name": "Graphic Design",
+        "course_url": "https://aca.am/en/graphic-design.php",
+        "level": "Beginner",
+        "price": "49.000 AMD/monthly",
+        "teachers": [
+            {
+                "company": "Picsart",
+                "full_name": "Masha Sargsyan"
+            }
+        ]
+    },
+    {
+        "course_id": "ui-ux_html",
+        "course_name": "UI/UX",
+        "course_url": "https://aca.am/en/ui-ux.html",
+        "level": "Intermediate",
+        "price": "49,000 AMD/month",
+        "teachers": [
+            {
+                "company": "VMware",
+                "full_name": "Lusine Dashtoyan"
+            },
+            {
+                "company": "Freelance UI/UX Designer",
+                "full_name": "Sofya Ghazaryan"
+            }
+        ]
+    },
+    {
+        "course_id": "js_html",
+        "course_name": "JavaScript",
+        "course_url": "https://aca.am/en/js.html",
+        "level": "Intermediate",
+        "price": "54,000 AMD/month",
+        "teachers": [
+            {
+                "company": "Software Engineer at Haffo",
+                "full_name": "Davit Margaryan"
+            },
+            {
+                "company": "Senior Software Developer at Haffo",
+                "full_name": "Robert Rostomyan"
+            },
+            {
+                "company": "Chief Technology Officer at Armenian Code Academy",
+                "full_name": "Vrezh Hovhannisyan"
+            }
+        ]
+    },
+    {
+        "course_id": "java_html",
+        "course_name": "Java",
+        "course_url": "https://aca.am/en/java.html",
+        "level": "Intermediate",
+        "price": "49,000 AMD / month",
+        "teachers": [
+            {
+                "company": "Technical Lead at Armenian Code Academy",
+                "full_name": "Mher Azizbekyan"
+            },
+            {
+                "company": "VMware",
+                "full_name": "Gevorg Harutyunyan"
+            }
+        ]
+    },
+    {
+        "course_id": "android_html",
+        "course_name": "Android Development",
+        "course_url": "https://aca.am/en/android.html",
+        "level": "Intermediate",
+        "price": "54,000 AMD / month",
+        "teachers": [
+            {
+                "company": "PicsArt",
+                "full_name": "Karen Galstyan"
+            }
+        ]
+    },
+    {
+        "course_id": "ios_html",
+        "course_name": "iOS Development",
+        "course_url": "https://aca.am/en/ios.html",
+        "level": "Beginner ",
+        "price": "69,000 AMD / month*",
+        "teachers": [
+            {
+                "company": "Picsart",
+                "full_name": "Arthur Hakobyan"
+            }
+        ]
+    },
+    {
+        "course_id": "qe_html",
+        "course_name": "Quality Engineering",
+        "course_url": "https://aca.am/en/qe.html",
+        "level": "Intermediate",
+        "price": "50,000 AMD / month",
+        "teachers": [
+            {
+                "company": "EPAM",
+                "full_name": "Pertch Sargsyan"
+            }
+        ]
+    },
+    {
+        "course_id": "csharp_html",
+        "course_name": "C#",
+        "course_url": "https://aca.am/en/csharp.html",
+        "level": "Intermediate ",
+        "price": "49000 AMD/ month",
+        "teachers": [
+            {
+                "company": "Engineering Manager at ServiceTitan",
+                "full_name": "Levon Hayrapetyan"
+            }
+        ]
+    },
+    {
+        "course_id": "python_html",
+        "course_name": "Python",
+        "course_url": "https://aca.am/en/python.html",
+        "level": "Beginner ",
+        "price": "50000 AMD/ month",
+        "teachers": [
+            {
+                "company": "VXSoft",
+                "full_name": "Ruben Manukyan"
+            },
+            {
+                "company": "ISEO",
+                "full_name": "Nairi Hakobyan"
+            }
+        ]
+    },
+    {
+        "course_id": "cpp_html",
+        "course_name": "C++",
+        "course_url": "https://aca.am/en/cpp.html",
+        "level": "Intermediate++",
+        "price": "",
+        "teachers": [
+            {
+                "company": "OMD",
+                "full_name": "Armen Tsirunyan"
+            },
+            {
+                "company": "VMware",
+                "full_name": "Levon Oganesyan"
+            }
+        ]
+    },
+    {
+        "course_id": "computer-science_php",
+        "course_name": "Tech for Non-Tech",
+        "course_url": "https://aca.am/en/computer-science.php",
+        "level": "Beginner",
+        "price": "65000 AMD/month",
+        "teachers": [
+            {
+                "company": "Chief Technology Officer at Armenian Code Academy",
+                "full_name": "Vrezh Hovhannisyan"
+            }
+        ]
+    },
+    {
+        "course_id": "project-management-page_php",
+        "course_name": "IT Project Management ",
+        "course_url": "https://aca.am/en/../en/project-management-page.php",
+        "level": "Intermediate",
+        "price": "49000 AMD/month",
+        "teachers": [
+            {
+                "company": "Catches",
+                "full_name": "Anna Muradyan"
+            }
+        ]
+    },
+    {
+        "course_id": "nodejs_html",
+        "course_name": "JavaScript",
+        "course_url": "https://aca.am/en/nodejs.html",
+        "level": "Intermediate",
+        "price": "54,000 AMD/month",
+        "teachers": [
+            {
+                "company": "Incyan LLC",
+                "full_name": "Levon Levonyan"
+            }
+        ]
+    },
+    {
+        "course_id": "englishfortech_php",
+        "course_name": "English for Tech",
+        "course_url": "https://aca.am/en/englishfortech.php",
+        "level": "Intermediate",
+        "price": "45.000 AMD/monthly",
+        "teachers": [
+            {
+                "company": "A language learning center which uses modern methods of teaching English, namely the Edutainment (education + entertainment) method and Messenger Chatbot.",
+                "full_name": "\u201cEnglish with Laura\u201d"
+            }
+        ]
+    },
+    {
+        "course_id": "algorithms_html",
+        "course_name": "Algorithms",
+        "course_url": "https://aca.am/en/algorithms.html",
+        "level": "Intermediate",
+        "price": "54,000 AMD/month",
+        "teachers": [
+            {
+                "company": "Code Signal",
+                "full_name": "Aram Drambyan"
+            }
+        ]
+    },
+    {
+        "course_id": "react_html",
+        "course_name": "ReactJS",
+        "course_url": "https://aca.am/en/react.html",
+        "level": "Advanced",
+        "price": "",
+        "teachers": [
+            {
+                "company": "TopTal",
+                "full_name": "Gevorg Topikyan"
+            }
+        ]
+    },
+    {
+        "course_id": "ui-ux-lvl2-page_php",
+        "course_name": "UX Level 2",
+        "course_url": "https://aca.am/en/./ui-ux-lvl2-page.php",
+        "level": "Advanced",
+        "price": "54.000 AMD/monthly",
+        "teachers": [
+            {
+                "company": "Lead UX Designer at EventGeek",
+                "full_name": "Anna Vasyukova"
+            }
+        ]
+    },
+    "course_id = product-management -> None ",
+    "course_id = python -> None ",
+    "course_id = machine-learning -> None ",
+    "course_id = workfront_html -> None "
+]
